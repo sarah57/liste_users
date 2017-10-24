@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+.eleve{
+	color:red;
+}
+.display{
+	visibility: hidden;
+}
+.display.show{
+	visibility: visible;
+}
+
