@@ -1,0 +1,21 @@
+{
+  "name": "listeusers",
+  "version": "1.0.0",
+  "description": "Liste des utilisateurs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "liloupass"
+  ],
+  "author": "sarah",
+  "license": "ISC",
+  "dependencies": {
+    "node-g": "^1.0.0"
+  }
+}
